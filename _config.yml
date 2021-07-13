@@ -6,7 +6,7 @@
 name: Jose Rafael Pacheco
 
 # Short bio or description (displayed in the header)
-description: Computer Scientist, Teacher, Geek from somewhere
+description: Computer Programming/Teaching/University
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -52,7 +52,8 @@ baseurl: ""
 #
 # !! You don't need to change any of the configuration flags below !!
 #
-
+markdown: redcarpet
+highlighter: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
@@ -70,7 +71,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
