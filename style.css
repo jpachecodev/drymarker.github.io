@@ -26,7 +26,7 @@ html {
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 30px;
-	background: var(--color0);
+	background: var(--color16);
 	padding-bottom: 100px;
 	font-family: sans-serif;
 }
@@ -357,4 +357,14 @@ list-style-type: circle;
 ul.todo {
 	font: small-caps 100%/200% serif;
 	list-style-type:square;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: var(--color16);
+  color: white;
+  text-align: center;
 }

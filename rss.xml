@@ -12,6 +12,41 @@
 <!-- LB -->
 
 <item>
+<title>Manual de usuario FludSIM 4 Neumática</title>
+<guid>https://jpachecodev.github.io/2021.html#manual-de-usuario-fludsim-4-neumatica</guid>
+<pubDate>Sat, 11 Dec 2021 22:38:16 -0400</pubDate>
+<description><![CDATA[
+
+Para entender el manejo de un simulador nada mejor que la fuente propia de la documentación del fabricante o programador, en este <a href="https://www.art-systems.de/fluidsim/download/v4/hb-esp-p4.pdf"> enlace </a> puede descargar el manual de la versión 4 de FluidSIM de Festo. Recomiendo su descarga y haremos de este documento un elemento de referencia y consulta.
+]]></description>
+</item>
+
+
+<item>
+<title>Crear una máquina virtual con VirtualBox</title>
+<guid>https://jpachecodev.github.io/2021.html#crear-una-maquina-virtual-con-virtualbox</guid>
+<pubDate>Sat, 11 Dec 2021 02:31:26 -0400</pubDate>
+<description><![CDATA[
+
+En este enlace puede obtener información acerca de cómo configurar una máquina virtual mediante el programa VirtualBox.
+
+
+<a href="https://www.profesionalreview.com/2018/11/21/crear-maquina-virtual-virtualbox/">Enlace de visita</a>
+]]></description>
+</item>
+
+
+<item>
+<title>Descarga Logic Works</title>
+<guid>https://jpachecodev.github.io/2021.html#descarga-logic-works</guid>
+<pubDate>Sat, 11 Dec 2021 02:14:17 -0400</pubDate>
+<description><![CDATA[
+Enlace de descarga para el programa Logic Works, tamaño 6.93 MB, comprimido en rar
+]]></description>
+</item>
+
+
+<item>
 <title>Este es otro</title>
 <guid>https://jpachecodev.github.io/2021.html#este-es-otro</guid>
 <pubDate>Thu, 09 Dec 2021 23:51:30 -0400</pubDate>
